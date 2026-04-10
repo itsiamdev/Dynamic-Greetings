@@ -9,7 +9,7 @@ Welcome to **Dynamic Greetings**! This is a fun and interactive web application 
 - **Lightweight**: Built with pure HTML, CSS, and JavaScript – no heavy frameworks needed.
 
 ## Live Demo 🚀
-Check out the live demo here: [https://iam269.github.io/Dynamic-Greetings/](https://iam269.github.io/Dynamic-Greetings/)
+Check out the live demo here: [https://itsiamdev.github.io/Dynamic-Greetings/](https://itsiamdev.github.io/Dynamic-Greetings/)
 
 ## How to Use 📖
 1. Clone the repository.
